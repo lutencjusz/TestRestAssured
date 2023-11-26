@@ -1,7 +1,0 @@
-<suite name="Restassured">
-    <test name="Sample Test">
-        <classes>
-            <class name="org.example.AppTest"/>
-        </classes>
-    </test>
-</suite>
