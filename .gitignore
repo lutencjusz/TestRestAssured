@@ -3,4 +3,4 @@ target/
 resources/
 Szkolenie 24-11 Notatki.txt
 RestAssured.pdf
-*/SecurityTests.java
+src/test/java/org/example/SecurityTests.java
